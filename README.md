@@ -1,5 +1,6 @@
 ### Hi there 👋
-  - 🔭 I'm currently going through fastai course, PyImageSearch university course and huggingface X fastai course.
+  - 🔭 I'm currently learning about llm inference libraries and custom machine learning kernels. 
+  - 🔭 In my free time, I am going through fastai course, PyImageSearch university course and huggingface X fastai course.
   - I publish my learnings and experimentation on my [blog](https://fastdaima.github.io/dltalkies/)
   - Books which I am currently reading :
   -       
